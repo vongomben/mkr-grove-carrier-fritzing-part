@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="CarrierSchematics.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 101.417 85.015"
+   viewBox="0 0 100 295"
+   height="295"
+   width="100"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata63112"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs63110">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+	</defs><sodipodi:namedview
+   inkscape:current-layer="layer18"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-9"
+   inkscape:window-x="-9"
+   inkscape:cy="169.71398"
+   inkscape:cx="-75.591668"
+   inkscape:zoom="3.8260204"
+   showgrid="false"
+   id="namedview63108"
+   inkscape:window-height="1271"
+   inkscape:window-width="2400"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   id="schematic">
+	
+		
+	
+	
+	<text
+   id="text63100"
+   font-size="6"
+   font-family="'DroidSans'"
+   transform="translate(42.9705,21.4189)" />
+	
+	
+<g
+   transform="translate(1.8191662,2.0981525)"
+   id="schematic-1">
+	
+		
+	
+	<text
+   style="fill:#000000"
+   y="-23.21262"
+   x="8.511343"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text63085" />
+	
+	
+	
+<text
+   style="fill:#000000"
+   y="-17.21262"
+   x="8.511343"
+   id="text63824"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555" /><text
+   style="fill:#000000"
+   y="34.878555"
+   x="78.545876"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text64083" /><text
+   style="fill:#000000"
+   y="78.587357"
+   x="78.73069"
+   id="text64099"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555" /><text
+   style="fill:#000000"
+   y="121.52211"
+   x="79.460663"
+   id="text64113"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555" /><text
+   style="fill:#000000"
+   y="151.7394"
+   x="79.368256"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text64125" /><text
+   style="fill:#000000"
+   y="174.27495"
+   x="38.620422"
+   id="text64250"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555" /><text
+   style="fill:#000000"
+   y="174.30461"
+   x="45.088959"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text64258" /><text
+   style="fill:#000000"
+   y="174.3029"
+   x="29.749294"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text64264" /><g
+   style="display:inline"
+   inkscape:label="Layer 1"
+   id="layer18"
+   inkscape:groupmode="layer"><g
+     transform="translate(-0.55603911,109.57459)"
+     id="g66089"><text
+       font-family="DroidSans"
+       font-size="6px"
+       id="text63100-5"
+       x="36.110332"
+       y="22.207125"
+       style="fill:#000000">Arduino </text><text
+       font-family="DroidSans"
+       font-size="6px"
+       id="text63102"
+       x="37.994595"
+       y="29.499733"
+       style="fill:#000000">Grove</text><text
+       font-family="DroidSans"
+       font-size="6px"
+       id="text63104"
+       x="36.770775"
+       y="36.422508"
+       style="fill:#000000">Carrier </text><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="100.45775"
+       x2="6.7356324"
+       y2="100.45775"
+       id="line63058"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="93.257751"
+       x2="6.7356324"
+       y2="93.257751"
+       id="line63060"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="114.85775"
+       x2="6.7356324"
+       y2="114.85775"
+       id="line63062"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="107.65775"
+       x2="6.7356324"
+       y2="107.65775"
+       id="line63064"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="122.05775"
+       x2="6.7356324"
+       y2="122.05775"
+       id="line63066"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="-0.46436736"
+       y1="129.25775"
+       x2="6.7356324"
+       y2="129.25775"
+       id="line63068"
+       style="fill:#000000" /><line
+       id="line63770"
+       y2="144.09837"
+       x2="6.6702905"
+       y1="144.09837"
+       x1="-0.5297094"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line63772"
+       y2="136.89836"
+       x2="6.6702905"
+       y1="136.89836"
+       x1="-0.5297094"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line63774"
+       y2="158.49837"
+       x2="6.6702905"
+       y1="158.49837"
+       x1="-0.5297094"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line63776"
+       y2="151.29837"
+       x2="6.6702905"
+       y1="151.29837"
+       x1="-0.5297094"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line63778"
+       y2="165.69836"
+       x2="6.6702905"
+       y1="165.69836"
+       x1="-0.5297094"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><g
+       id="g63820"
+       transform="translate(-0.892367,-15.900594)"
+       style="fill:#000000"><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="28.799999"
+         x2="7.6279998"
+         y2="28.799999"
+         id="line63796"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="21.6"
+         x2="7.6279998"
+         y2="21.6"
+         id="line63798"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="43.200001"
+         x2="7.6279998"
+         y2="43.200001"
+         id="line63800"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="36"
+         x2="7.6279998"
+         y2="36"
+         id="line63802"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="50.400002"
+         x2="7.6279998"
+         y2="50.400002"
+         id="line63804"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="57.599998"
+         x2="7.6279998"
+         y2="57.599998"
+         id="line63806"
+         style="fill:#000000" /><line
+         id="line63808"
+         y2="72.44062"
+         x2="7.5626578"
+         y1="72.44062"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line63810"
+         y2="65.240616"
+         x2="7.5626578"
+         y1="65.240616"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line63812"
+         y2="86.840614"
+         x2="7.5626578"
+         y1="86.840614"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line63814"
+         y2="79.640617"
+         x2="7.5626578"
+         y1="79.640617"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line63816"
+         y2="94.040619"
+         x2="7.5626578"
+         y1="94.040619"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line63818"
+         y2="101.24062"
+         x2="7.5626578"
+         y1="101.24062"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /></g><text
+       id="text63083"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.1012125"
+       y="7.7768111"
+       style="fill:#000000">5V</text><text
+       y="14.495576"
+       x="8.4279222"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63822"
+       style="fill:#000000">A0</text><text
+       id="text63828"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.4932642"
+       y="21.356493"
+       style="fill:#000000">GND</text><text
+       id="text63836"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.4932642"
+       y="35.77681"
+       style="fill:#000000">A1</text><text
+       y="42.637726"
+       x="8.5586061"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63838"
+       style="fill:#000000">GND</text><g
+       transform="translate(-1.480445,5.707351)"
+       id="g63834"
+       style="fill:#000000">
+		
+		
+		
+		
+		<text
+   id="text63830"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555"
+   transform="translate(9.647,23.3507)"
+   style="fill:#000000">5V</text>
+		<text
+   id="text63832"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555"
+   transform="translate(9.6875,30.4332)"
+   style="fill:#000000" />
+		
+		
+		
+		
+		
+		
+	</g><text
+       y="50.931168"
+       x="8.286027"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63870"
+       style="fill:#000000">5V</text><text
+       id="text63872"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.6127367"
+       y="57.649929"
+       style="fill:#000000">A2</text><text
+       y="65.1577"
+       x="8.1236353"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63874"
+       style="fill:#000000">GND</text><text
+       y="79.947647"
+       x="8.6780787"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63876"
+       style="fill:#000000">A3</text><text
+       id="text63878"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.09657"
+       y="86.90097"
+       style="fill:#000000">GND</text><g
+       id="g63884"
+       transform="translate(-1.29563,49.41615)"
+       style="fill:#000000">
+		
+		
+		
+		
+		<text
+   transform="translate(9.647,23.3507)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text63880"
+   style="fill:#000000">5V</text>
+		<text
+   transform="translate(9.6875,30.4332)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text63882"
+   style="fill:#000000" />
+		
+		
+		
+		
+		
+		
+	</g><text
+       y="94.420372"
+       x="9.0159998"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63886"
+       style="fill:#000000">5V</text><text
+       id="text63888"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="9.3427095"
+       y="101.13913"
+       style="fill:#000000">A4</text><text
+       y="108.00005"
+       x="9.4080515"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63890"
+       style="fill:#000000">GND</text><text
+       y="122.42036"
+       x="9.4080515"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63892"
+       style="fill:#000000">A5</text><g
+       id="g63900"
+       transform="translate(-0.565657,92.350904)"
+       style="fill:#000000">
+		
+		
+		
+		
+		<text
+   transform="translate(9.647,23.3507)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text63896"
+   style="fill:#000000">5V</text>
+		<text
+   transform="translate(9.6875,30.4332)"
+   fill="#555555"
+   font-family="DroidSans"
+   font-size="4.5px"
+   id="text63898"
+   style="fill:#000000" />
+		
+		
+		
+		
+		
+		
+	</g><text
+       y="130.80197"
+       x="9.2503023"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63904"
+       style="fill:#000000">A6</text><text
+       id="text63906"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="8.7612009"
+       y="138.40215"
+       style="fill:#000000">GND</text><text
+       id="text63918"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="9.3156443"
+       y="152.63765"
+       style="fill:#000000">TX</text><g
+       transform="translate(-0.658065,122.56819)"
+       id="g63924"
+       style="fill:#000000">
+		
+		
+		
+		
+		<text
+   id="text63920"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555"
+   transform="translate(9.647,23.3507)"
+   style="fill:#000000">5V</text>
+		<text
+   id="text63922"
+   font-size="4.5px"
+   font-family="DroidSans"
+   fill="#555555"
+   transform="translate(9.6875,30.4332)"
+   style="fill:#000000" />
+		
+		
+		
+		
+		
+		
+	</g><text
+       id="text63926"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="9.2503023"
+       y="159.91037"
+       style="fill:#000000">RX</text><text
+       y="167.23332"
+       x="8.8536081"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text63928"
+       style="fill:#000000">GND</text><line
+       id="line64023"
+       y2="99.195747"
+       x2="97.074455"
+       y1="99.195747"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64025"
+       y2="91.99575"
+       x2="97.074455"
+       y1="91.99575"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64027"
+       y2="113.59575"
+       x2="97.074455"
+       y1="113.59575"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64029"
+       y2="106.39575"
+       x2="97.074455"
+       y1="106.39575"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64031"
+       y2="120.79575"
+       x2="97.074455"
+       y1="120.79575"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64033"
+       y2="127.99575"
+       x2="97.074455"
+       y1="127.99575"
+       x1="89.874451"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.809113"
+       y1="142.83638"
+       x2="97.009109"
+       y2="142.83638"
+       id="line64035"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.809113"
+       y1="135.63637"
+       x2="97.009109"
+       y2="135.63637"
+       id="line64037"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.809113"
+       y1="157.23637"
+       x2="97.009109"
+       y2="157.23637"
+       id="line64039"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.809113"
+       y1="150.03638"
+       x2="97.009109"
+       y2="150.03638"
+       id="line64041"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.809113"
+       y1="164.43637"
+       x2="97.009109"
+       y2="164.43637"
+       id="line64043"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="11.637405"
+       x2="97.074448"
+       y2="11.637405"
+       id="line64045"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="4.4374065"
+       x2="97.074448"
+       y2="4.4374065"
+       id="line64047"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="26.037407"
+       x2="97.074448"
+       y2="26.037407"
+       id="line64049"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="18.837406"
+       x2="97.074448"
+       y2="18.837406"
+       id="line64051"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="33.237408"
+       x2="97.074448"
+       y2="33.237408"
+       id="line64053"
+       style="fill:#000000" /><line
+       fill="none"
+       stroke="#555555"
+       stroke-width="0.7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       x1="89.874451"
+       y1="40.437405"
+       x2="97.074448"
+       y2="40.437405"
+       id="line64055"
+       style="fill:#000000" /><line
+       id="line64057"
+       y2="55.278027"
+       x2="97.009109"
+       y1="55.278027"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64059"
+       y2="48.078022"
+       x2="97.009109"
+       y1="48.078022"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64061"
+       y2="69.678017"
+       x2="97.009109"
+       y1="69.678017"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64063"
+       y2="62.478024"
+       x2="97.009109"
+       y1="62.478024"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64065"
+       y2="76.878021"
+       x2="97.009109"
+       y1="76.878021"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64067"
+       y2="84.078026"
+       x2="97.009109"
+       y1="84.078026"
+       x1="89.809105"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><text
+       y="6.5148177"
+       x="78.440033"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64071"
+       style="fill:#000000">5V</text><text
+       id="text64073"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="78.766739"
+       y="13.233582"
+       style="fill:#000000">D0</text><text
+       y="20.0945"
+       x="75.957031"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64075"
+       style="fill:#000000">GND</text><text
+       y="34.514812"
+       x="78.832085"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64077"
+       style="fill:#000000">D1</text><text
+       id="text64079"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="76.283745"
+       y="41.375729"
+       style="fill:#000000">GND</text><text
+       id="text64081"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="78.505371"
+       y="27.796055"
+       style="fill:#000000">5V</text><text
+       id="text64087"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="78.624847"
+       y="49.66917"
+       style="fill:#000000">5V</text><text
+       y="56.387932"
+       x="78.951553"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64089"
+       style="fill:#000000">D2</text><text
+       id="text64091"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="75.718086"
+       y="63.895699"
+       style="fill:#000000">GND</text><text
+       id="text64093"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="79.016899"
+       y="78.685654"
+       style="fill:#000000">D3</text><text
+       y="84.854866"
+       x="75.691025"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64095"
+       style="fill:#000000">GND</text><text
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64097"
+       x="78.690186"
+       y="71.504852"
+       style="fill:#000000">5V</text><text
+       id="text64103"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="79.35482"
+       y="93.158371"
+       style="fill:#000000">5V</text><text
+       y="99.877136"
+       x="79.681526"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64105"
+       style="fill:#000000">D4</text><text
+       id="text64107"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="76.349083"
+       y="106.73804"
+       style="fill:#000000">GND</text><text
+       id="text64109"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="79.746872"
+       y="121.15836"
+       style="fill:#000000">D5</text><text
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64111"
+       x="79.420158"
+       y="114.43961"
+       style="fill:#000000">5V</text><text
+       id="text64117"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="79.589119"
+       y="129.53998"
+       style="fill:#000000">D6</text><text
+       y="137.14015"
+       x="77.074417"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64119"
+       style="fill:#000000">GND</text><text
+       y="151.63702"
+       x="78.347618"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64121"
+       style="fill:#000000">SCL</text><text
+       id="text64123"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="79.327751"
+       y="144.65691"
+       style="fill:#000000">5V</text><text
+       y="158.64838"
+       x="77.759544"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64129"
+       style="fill:#000000">SDA</text><text
+       id="text64131"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="77.362846"
+       y="165.90599"
+       style="fill:#000000">GND</text><line
+       id="line64240"
+       y2="172.79706"
+       x2="34.471661"
+       y1="179.99706"
+       x1="34.471661"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64242"
+       y2="172.79706"
+       x2="48.871643"
+       y1="179.99706"
+       x1="48.871643"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64244"
+       y2="172.79706"
+       x2="41.67165"
+       y1="179.99706"
+       x1="41.67165"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><line
+       id="line64246"
+       y2="172.79706"
+       x2="56.071644"
+       y1="179.99706"
+       x1="56.071644"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.7"
+       stroke="#555555"
+       fill="none"
+       style="fill:#000000" /><text
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64248"
+       x="38.579926"
+       y="167.19244"
+       style="fill:#000000">5V</text><text
+       y="167.22211"
+       x="50.728901"
+       fill="#555555"
+       font-family="DroidSans"
+       font-size="4.5px"
+       id="text64254"
+       style="fill:#000000">GND</text><text
+       id="text64256"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       x="45.048458"
+       y="167.22211"
+       style="fill:#000000">3V</text><text
+       y="167.2243"
+       x="29.708794"
+       id="text64262"
+       font-size="4.5px"
+       font-family="DroidSans"
+       fill="#555555"
+       style="fill:#000000">VIN</text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49503"
+       y="-98.117256"
+       class="pinLabel"
+       x="10.698903"><tspan
+         id="tspan51075"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98012px;font-family:DroidSans;-inkscape-font-specification:DroidSans;fill:#000000;stroke-width:0.830018">AREF</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49508"
+       y="-89.913445"
+       class="pinLabel"
+       x="10.582299"><tspan
+         id="tspan51077"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">A0/DAC0</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49513"
+       y="-81.976112"
+       class="pinLabel"
+       x="10.568432"><tspan
+         id="tspan51079"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">A1</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49518"
+       y="-74.389977"
+       class="pinLabel"
+       x="10.414203"><tspan
+         id="tspan51081"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">A2</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49523"
+       y="-67.645424"
+       class="pinLabel"
+       x="10.19728"><tspan
+         id="tspan51083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">A3</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49528"
+       y="-60.456875"
+       class="pinLabel"
+       x="10.006144"><tspan
+         id="tspan51087"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018">A4</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49533"
+       y="-52.946404"
+       class="pinLabel"
+       x="9.470911"><tspan
+         id="tspan51091"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">A5</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49538"
+       y="-45.807407"
+       class="pinLabel"
+       x="9.9329491"><tspan
+         id="tspan51095"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018">A6</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49543"
+       y="-38.415936"
+       class="pinLabel"
+       x="13.131438"><tspan
+         id="tspan51099"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">0</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49548"
+       y="-31.311695"
+       class="pinLabel"
+       x="12.985059"><tspan
+         id="tspan51103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">1</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text49553"
+       y="-23.966816"
+       class="pinLabel"
+       x="9.7710314"><tspan
+         id="tspan51105"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018">~2</tspan></text><text
+       x="9.5486994"
+       class="pinLabel"
+       y="-16.7589"
+       id="text51109"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018"
+         id="tspan51107">~3</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51121"
+       y="-2.6954477"
+       class="pinLabel"
+       x="9.1973629"><tspan
+         id="tspan51119"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018">~5</tspan></text><text
+       x="9.3130875"
+       class="pinLabel"
+       y="-9.3902349"
+       id="text51115"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:'roboto Bold';fill:#000000;stroke-width:0.830018"
+         id="tspan51113">~4</tspan></text><text
+       x="80.038048"
+       class="pinLabel"
+       y="-97.979767"
+       id="text51125"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51123">5V</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51131"
+       y="-89.556145"
+       class="pinLabel"
+       x="77.656059"><tspan
+         id="tspan51129"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">VIN</tspan></text><text
+       x="76.545235"
+       class="pinLabel"
+       y="-81.247452"
+       id="text51137"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51135">VCC</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51143"
+       y="-74.32431"
+       class="pinLabel"
+       x="75.665771"><tspan
+         id="tspan51141"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">GND</tspan></text><text
+       x="70.980232"
+       class="pinLabel"
+       y="-67.367294"
+       id="text51149"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51147">RESET</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51153"
+       y="-60.08131"
+       class="pinLabel"
+       x="67.723518"><tspan
+         id="tspan51151"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">TX→/14</tspan></text><text
+       x="67.486954"
+       class="pinLabel"
+       y="-53.150208"
+       id="text51157"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51155">RX←/13</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51161"
+       y="-45.858677"
+       class="pinLabel"
+       x="67.608917"><tspan
+         id="tspan51159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">SCL /12</tspan></text><text
+       x="67.44075"
+       class="pinLabel"
+       y="-38.454346"
+       id="text51165"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51163">SDA /11</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51169"
+       y="-31.233021"
+       class="pinLabel"
+       x="64.514816"><tspan
+         id="tspan51167"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">MISO /10</tspan></text><text
+       x="69.822952"
+       class="pinLabel"
+       y="-23.716015"
+       id="text51173"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51171">SCK /9</tspan></text><text
+       x="66.745506"
+       class="pinLabel"
+       y="-16.533545"
+       id="text51177"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51175">MOSI /8</tspan></text><text
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"
+       id="text51181"
+       y="-9.2150526"
+       class="pinLabel"
+       x="81.626419"><tspan
+         id="tspan51179"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018">7</tspan></text><text
+       x="81.102638"
+       class="pinLabel"
+       y="-3.1384318"
+       id="text51185"
+       style="font-size:4.98012px;fill:#000000;stroke-width:0.830018"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.98012px;font-family:roboto;-inkscape-font-specification:roboto;fill:#000000;stroke-width:0.830018"
+         id="tspan51183">6</tspan></text><g
+       id="g64678"
+       transform="translate(89.44645,-105.16259)"
+       style="fill:#000000"><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="28.799999"
+         x2="7.6279998"
+         y2="28.799999"
+         id="line64634"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="21.6"
+         x2="7.6279998"
+         y2="21.6"
+         id="line64636"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="43.200001"
+         x2="7.6279998"
+         y2="43.200001"
+         id="line64638"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="36"
+         x2="7.6279998"
+         y2="36"
+         id="line64640"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="50.400002"
+         x2="7.6279998"
+         y2="50.400002"
+         id="line64642"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="57.599998"
+         x2="7.6279998"
+         y2="57.599998"
+         id="line64644"
+         style="fill:#000000" /><line
+         id="line64646"
+         y2="72.44062"
+         x2="7.5626578"
+         y1="72.44062"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64648"
+         y2="65.240616"
+         x2="7.5626578"
+         y1="65.240616"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64650"
+         y2="86.840614"
+         x2="7.5626578"
+         y1="86.840614"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64652"
+         y2="79.640617"
+         x2="7.5626578"
+         y1="79.640617"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64654"
+         y2="94.040619"
+         x2="7.5626578"
+         y1="94.040619"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64656"
+         y2="101.24062"
+         x2="7.5626578"
+         y1="101.24062"
+         x1="0.36265796"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64660"
+         y2="13.6"
+         x2="7.6279998"
+         y1="13.6"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="5.6000004"
+         x2="7.6279998"
+         y2="5.6000004"
+         id="line64662"
+         style="fill:#000000" /></g><g
+       id="g64708"
+       transform="translate(-0.55355,-105.16259)"
+       style="fill:#000000"><line
+         id="line64680"
+         y2="28.799999"
+         x2="7.6279998"
+         y1="28.799999"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64682"
+         y2="21.6"
+         x2="7.6279998"
+         y1="21.6"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64684"
+         y2="43.200001"
+         x2="7.6279998"
+         y1="43.200001"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64686"
+         y2="36"
+         x2="7.6279998"
+         y1="36"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64688"
+         y2="50.400002"
+         x2="7.6279998"
+         y1="50.400002"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         id="line64690"
+         y2="57.599998"
+         x2="7.6279998"
+         y1="57.599998"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="72.44062"
+         x2="7.5626578"
+         y2="72.44062"
+         id="line64692"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="65.240616"
+         x2="7.5626578"
+         y2="65.240616"
+         id="line64694"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="86.840614"
+         x2="7.5626578"
+         y2="86.840614"
+         id="line64696"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="79.640617"
+         x2="7.5626578"
+         y2="79.640617"
+         id="line64698"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="94.040619"
+         x2="7.5626578"
+         y2="94.040619"
+         id="line64700"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.36265796"
+         y1="101.24062"
+         x2="7.5626578"
+         y2="101.24062"
+         id="line64702"
+         style="fill:#000000" /><line
+         fill="none"
+         stroke="#555555"
+         stroke-width="0.7"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         x1="0.428"
+         y1="13.6"
+         x2="7.6279998"
+         y2="13.6"
+         id="line64704"
+         style="fill:#000000" /><line
+         id="line64706"
+         y2="5.6000004"
+         x2="7.6279998"
+         y1="5.6000004"
+         x1="0.428"
+         stroke-linejoin="round"
+         stroke-linecap="round"
+         stroke-width="0.7"
+         stroke="#555555"
+         fill="none"
+         style="fill:#000000" /></g><rect
+       id="part_symbol"
+       x="7.3196158"
+       y="-110.08334"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-width="1.76903"
+       stroke-linecap="round"
+       width="82.143456"
+       height="282.7829"
+       style="fill:none" /></g></g></g></g>
+</svg>
